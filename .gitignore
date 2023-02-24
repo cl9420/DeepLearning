@@ -1,0 +1,9 @@
+#忽略data文件
+data/*
+!data/readme.txt
+#忽略img文件
+img/*
+!img/readme.txt
+/pytorch
+/test
+
